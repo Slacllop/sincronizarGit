@@ -1,3 +1,2 @@
-<?php
-ECHO"PRUEBA 
-?>
+
+<p>Prueba</p>
